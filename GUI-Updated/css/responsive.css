@@ -1,0 +1,115 @@
+ @media only screen and (max-width: 768px) {
+ 	.top_five_btn .custome-size {
+ 		width: 100%;
+ 	}
+ 	.top_btn .btn {
+ 		font-size: 20px;
+ 		max-width: 100%;
+ 		font-size: 15px;
+ 	}
+ 	.speedo_img_details_wrapper img {
+ 		max-width: 100% !important;
+ 		width: 100% !important;
+ 	}
+ 	.speedo_img_details_wrapper {
+ 		float:unset;
+ 	}
+ 	.bottom-bar{
+ 		width: 100%;
+ 	}
+ 	.speedo_details {
+ 		width: 100%;
+ 	}
+ 	.add_remove_btn_wrapper .myButton {
+ 		width: 100%;
+ 	}
+ 	.add_remove_btn_wrapper {
+ 		margin-left: unset;
+ 	}
+ 	.add_remove_btn {
+ 		max-width: 100%;
+ 	}
+ 	.sentinel_text {
+ 		text-align: LEFT;
+ 		padding: 2px;
+ 	}
+ 	.sort_symbols_wrapper span {
+ 		margin-left: 5px;
+ 	}
+ 	.sort_symbols_wrapper .add_remove_btn {
+ 		margin-bottom: 5px;
+ 	}
+ }
+ @media only screen and (max-width: 991px) {
+ 	.top_btn .btn {
+ 		font-size: 15px;
+ 	}
+ 	.add_remove_btn_wrapper {
+ 		margin-left: unset;
+ 	}
+ 	.add_remove_btn_wrapper .myButton {
+ 		width: 100%;
+ 	}
+ 	.add_remove_btn {
+ 		max-width: 100%;
+ 	}
+ 	.sentinel_text {
+ 		text-align: LEFT;
+ 		padding: 2px;
+ 	}
+ 	.sort_symbols_wrapper span {
+ 		margin-left: 5px;
+ 	}
+ 	.sort_symbols_wrapper .add_remove_btn {
+ 		margin-bottom: 5px;
+ 	}
+ }
+ @media only screen and (min-width: 992px) and (max-width: 1220px) {
+ 	.add_remove_btn_wrapper {
+ 		margin-left: 5px;
+ 	}
+ 	.add_remove_btn_wrapper .myButton {
+ 		padding: 15px 40px;
+ 	}
+ 	.add_remove_btn {
+ 		max-width: 175px;
+ 	}
+ 	.sentinel_text {
+ 		font-size: 30px;
+ 	}
+ 	.sort_symbols_wrapper span {
+ 		font-size: 12px;
+ 	}
+ 	.speedo_details img {
+ 		max-width: 189px;
+ 		width: 269px;
+ 	}
+ 	.del_icon {
+ 		margin-left: -40px;
+ 		margin-top: 0px;
+ 	}
+ }
+ @media only screen and (min-width: 1221px) and (max-width: 1257px) {
+ 	.sort_symbols_wrapper span {
+ 		font-size: 14px !important;
+ 	}
+ 	.add_remove_btn_wrapper .myButton {
+ 		padding: 15px 45px;
+ 	}
+ 	.add_remove_btn {
+ 		max-width: 230px;
+ 	}
+/*.speedo_details img {
+       max-width: 148px;
+       }*/
+   }
+   @media only screen and (min-width: 1039px) and (max-width: 1220px) {
+   	.speedo_details img {
+   		max-width: 227px !important;
+   	}
+   }
+   @media only screen and (min-width: 1221px) and (max-width: 1317px) {
+   	.speedo_details img {
+   		max-width: 148px !important;
+   	}
+   }
